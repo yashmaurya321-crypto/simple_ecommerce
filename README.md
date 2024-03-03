@@ -8,7 +8,7 @@ Welcome to our MERN E-Commerce App! This is a simple yet powerful web applicatio
 <img src="images/Screenshot%20(4).png" alt="Example" width="400">                                                    <img src="images/Screenshot%20(8).png" alt="Example" width="400">
 
 
-<img src="images/Screenshot%20(6).png" alt="Example" width="400">                                                      <img src="images/Screenshot%20(7).png" alt="Homepage" width="400">
+<img src="images/Screenshot%20(6).png" alt="Example" width="400">                                                   <img src="images/Screenshot%20(7).png" alt="Homepage" width="400">
 
 
 <img src="images/Screenshot%20(9).png" alt="Homepage" width="400">
