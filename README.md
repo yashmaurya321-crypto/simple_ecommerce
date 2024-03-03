@@ -2,7 +2,10 @@
 
 Welcome to our MERN E-Commerce App! This is a simple yet powerful web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Our platform offers a seamless shopping experience with a focus on watches.
 ## Images 
-![Homepage](images/Screenshot%20(1).png)
+
+<img src="images/Screenshot%20(1).png" alt="Homepage" width="400">
+
+<img src="images/Screenshot%20(2).png" alt="Example" width="400">
 
 ## Features
 
