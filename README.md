@@ -1,8 +1,8 @@
 # MERN E-Commerce App
 
 Welcome to our MERN E-Commerce App! This is a simple yet powerful web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Our platform offers a seamless shopping experience with a focus on watches.
-# Images 
-![Homepage](images/Screenshot (1).png)
+## Images 
+![Homepage](images/Screenshot%20(1).png)
 
 ## Features
 
@@ -20,4 +20,4 @@ Welcome to our MERN E-Commerce App! This is a simple yet powerful web applicatio
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/yashmaurya321-crypto/simple_ecommerce
